@@ -1,5 +1,5 @@
 # Getting Started
-Simple API testing framework starter project using Pytest and Requests. Created to be extendable or used as part of a hybrid automation solution.
+API testing framework starter project using Pytest and Requests. Created to be extendable or used as part of a hybrid automation solution.
 
 # PIP Packages:
 - pip install requests
